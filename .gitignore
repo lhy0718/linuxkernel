@@ -4,4 +4,6 @@
 *.order
 *.symvers
 *.tar.gz
+*.mod
+*.cmd
 linux*/
